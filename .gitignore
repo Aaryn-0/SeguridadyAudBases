@@ -1,0 +1,15 @@
+# Archivos temporales y credenciales sensibles de Oracle Wallet
+*.p12
+*.sso
+*.bkp
+*.dmp
+*.log
+*.trc
+*.trm
+.DS_Store
+Thumbs.db
+
+# Archivos omitidos del repositorio remoto
+docs/
+README.md
+*.pdf
